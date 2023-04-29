@@ -25,7 +25,7 @@ This project is a JEE web application designed to manage hospital patients. The 
 
 ## Setup
 
-1. Clone this repository using `git clone https://github.com/MarshelD/Patient_Jee.git`.
+1. Clone this repository using `git clone https://github.com/dohaab2/Patient_Jee-master.git`.
 2. Import the project into your IDE (Eclipse, IntelliJ, etc.) as a Maven project.
 3. Configure the database connection in the `application.properties` file located in the `src/main/resources` folder.
 4. Build and run the application using the `mvn clean package` command to build the WAR file, and then deploying it to a Tomcat server.
