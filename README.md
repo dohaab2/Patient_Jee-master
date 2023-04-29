@@ -1,19 +1,12 @@
-# Patient_Jee
+# Patient_Jee-master
 
 
 # JEE Web Application for Managing Hospital Patients
 
 This project is a JEE web application designed to manage hospital patients. The application allows hospital staff to create, update and delete patients.
 
-## Features
 
-- Create, update, and delete patient records
-- Schedule appointments
-- Manage medical histories
-- Search patients by name, ID or other information
-- Secure login system
-
-## Technologies Used
+## Technologies
 
 - JEE (Java Enterprise Edition) 
 - Spring Framework 
@@ -33,12 +26,6 @@ This project is a JEE web application designed to manage hospital patients. The 
 ## Usage
 
 After starting the application, open a web browser and go to `http://localhost:8080/hospital-management/` to access the login page. The default credentials for the administrator account are:
-
 - Username: admin
 - Password: 1234
-
 After logging in, you will be taken to the dashboard where you can manage patients.
-
-## Contributors
-
-- [Your Name](https://github.com/your-username)
